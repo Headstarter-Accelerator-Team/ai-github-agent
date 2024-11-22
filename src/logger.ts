@@ -1,4 +1,4 @@
-import { Axiom } from '@axiomhq/js';
+import { Axiom } from "@axiomhq/js";
 
 export const axiom = new Axiom({
   token: process.env.AXIOM_API_KEY,
